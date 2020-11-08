@@ -1,0 +1,3 @@
+Press i can write
+then press esc
+last press :x and enter can save it
